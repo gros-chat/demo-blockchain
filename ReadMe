@@ -1,0 +1,15 @@
+# create a smart contract that pay someone that provide a code
+# deploy it with brownie on Ganache
+# deploy it with a testnet ( Rinkeby)
+
+#Background:
+# You are sending goods abroad
+# You want to secure the payment, viz: 
+# - the buyer does not want to pay in advance
+# - once the goods is shipped, the sender is powerless
+# - that is the good cannot be delivered to the buyer unless the buyer pays
+# - the buyer does not pay, the shipping company keeps the goods
+# - the shipping company is paid when the good is deliverd to the buyer or
+# - upon returning the goods to sender if the buyer does not pay
+
+
